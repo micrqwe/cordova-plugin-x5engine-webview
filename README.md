@@ -31,7 +31,7 @@ The following directions are for cordova-cli (most people).
 * Add this plugin
 
 ```
-$ cordova plugin add  https://github.com/offbye/cordova-plugin-x5engine-webview.git
+$ cordova plugin add  https://github.com/micrqwe/cordova-plugin-x5engine-webview.git --save
 ```
 
 * Build
