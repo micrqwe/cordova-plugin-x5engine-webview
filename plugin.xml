@@ -43,7 +43,7 @@
         <source-file src="platforms/android/src/org/apache/cordova/x5engine/X5WebViewClient.java" target-dir="src/org/apache/cordova/x5engine"/>
         <source-file src="platforms/android/src/org/apache/cordova/x5engine/X5WebViewEngine.java" target-dir="src/org/apache/cordova/x5engine"/>
 
-        <source-file src="platforms/android/libs/tbs_sdk_thirdapp_v2.5.0.1037_36880_minsize_obfs_20161110_102536.jar" target-dir="libs"/>
+        <source-file src="platforms/android/libs/v3.6.0.1352__20180918_120327.jar" target-dir="libs"/>
         <source-file src="platforms/android/libs/armeabi/liblbs.so" target-dir="libs/armeabi"/>
     </platform>
 
